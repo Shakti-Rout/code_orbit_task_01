@@ -1,0 +1,25 @@
+Feature,Category,Count,Percentage (%),Survival Rate (%)
+Survived,0,549,61.62,0.0
+Survived,1,342,38.38,100.0
+Pclass,3,491,55.11,24.24
+Pclass,1,216,24.24,62.96
+Pclass,2,184,20.65,47.28
+Sex,male,577,64.76,18.89
+Sex,female,314,35.24,74.2
+Embarked,S,646,72.5,33.9
+Embarked,C,168,18.86,55.36
+Embarked,Q,77,8.64,38.96
+Title,Mr,517,58.02,15.67
+Title,Miss,185,20.76,70.27
+Title,Mrs,126,14.14,79.37
+Title,Master,40,4.49,57.5
+Title,Rare,23,2.58,34.78
+AgeGroup,Young Adult,469,52.64,33.05
+AgeGroup,Middle-Aged,224,25.14,40.62
+AgeGroup,Adolescent,103,11.56,47.57
+AgeGroup,Child,73,8.19,57.53
+AgeGroup,Senior,22,2.47,22.73
+IsAlone,1,537,60.27,30.35
+IsAlone,0,354,39.73,50.56
+Has_Cabin,0,687,77.1,29.99
+Has_Cabin,1,204,22.9,66.67
